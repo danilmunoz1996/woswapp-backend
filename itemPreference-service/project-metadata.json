@@ -1,0 +1,8 @@
+{
+    "APP": "itemPreference-service",
+    "SERVICE": "itemPreference",
+    "EXPORT_TABLE_NAME": "ItempreferenceTableName",
+    "EXPORT_TABLE_ARN": "ItempreferenceTableArn",
+    "MODEL": "itemPreference",
+    "MODEL_PLURAL": "itemPreference"
+}

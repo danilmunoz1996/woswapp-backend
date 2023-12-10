@@ -1,0 +1,8 @@
+{
+    "APP": "match-service",
+    "SERVICE": "match",
+    "EXPORT_TABLE_NAME": "MatchTableName",
+    "EXPORT_TABLE_ARN": "MatchTableArn",
+    "MODEL": "match",
+    "MODEL_PLURAL": "match"
+}

@@ -1,0 +1,8 @@
+{
+    "APP": "itemsItemTags-service",
+    "SERVICE": "itemsItemTags",
+    "EXPORT_TABLE_NAME": "ItemsitemtagsTableName",
+    "EXPORT_TABLE_ARN": "ItemsitemtagsTableArn",
+    "MODEL": "itemsItemTags",
+    "MODEL_PLURAL": "itemsItemTags"
+}

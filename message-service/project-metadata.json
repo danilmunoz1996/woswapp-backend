@@ -1,0 +1,8 @@
+{
+    "APP": "message-service",
+    "SERVICE": "message",
+    "EXPORT_TABLE_NAME": "MessageTableName",
+    "EXPORT_TABLE_ARN": "MessageTableArn",
+    "MODEL": "message",
+    "MODEL_PLURAL": "message"
+}

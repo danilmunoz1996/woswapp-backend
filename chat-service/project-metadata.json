@@ -1,0 +1,8 @@
+{
+    "APP": "chat-service",
+    "SERVICE": "chat",
+    "EXPORT_TABLE_NAME": "ChatTableName",
+    "EXPORT_TABLE_ARN": "ChatTableArn",
+    "MODEL": "chat",
+    "MODEL_PLURAL": "chat"
+}

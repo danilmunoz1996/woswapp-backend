@@ -1,0 +1,8 @@
+{
+    "APP": "item-service",
+    "SERVICE": "item",
+    "EXPORT_TABLE_NAME": "ItemTableName",
+    "EXPORT_TABLE_ARN": "ItemTableArn",
+    "MODEL": "item",
+    "MODEL_PLURAL": "item"
+}

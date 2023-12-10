@@ -1,0 +1,8 @@
+{
+    "APP": "user-service",
+    "SERVICE": "user",
+    "EXPORT_TABLE_NAME": "UserTableName",
+    "EXPORT_TABLE_ARN": "UserTableArn",
+    "MODEL": "user",
+    "MODEL_PLURAL": "user"
+}
